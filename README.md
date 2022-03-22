@@ -1,10 +1,12 @@
 # daily-weather-app
 
-The purpose of this project was to display a 5 day forecast using [openweathermap.org/api](https://openweathermap.org/api). You can learn more about this project by visiting [hatchways.notion.site/front-end-practice-assessment](https://hatchways.notion.site/hatchways/Front-End-Practice-Assessment-0a0723b34cae4e41912ff6bf5b7c2b77)
+The purpose of this project was to display a 5-day forecast using [openweathermap.org/api](https://openweathermap.org/api) 
+
+You can learn more about this project by visiting [hatchways.notion.site/front-end-practice-assessment](https://hatchways.notion.site/hatchways/Front-End-Practice-Assessment-0a0723b34cae4e41912ff6bf5b7c2b77)
 
 ### Screenshot
 
-![screenshot](./screenshot.png "screenshot")
+![screenshot](./00-screenshot.png "screenshot")
 
 ### Key Technologies
 
